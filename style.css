@@ -1,0 +1,19 @@
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.img-encabezado {
+  height: 500px;
+  width: 100vw;
+}
+
+#publi {
+  object-fit: cover;
+  filter: grayscale(70%);
+  height: 250px;
+}
+
+p {
+  text-align: justify;
+}
